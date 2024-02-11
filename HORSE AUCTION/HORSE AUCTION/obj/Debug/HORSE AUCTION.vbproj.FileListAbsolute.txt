@@ -1,0 +1,10 @@
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\bin\Debug\HORSE AUCTION.exe.config
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\bin\Debug\HORSE AUCTION.exe
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\bin\Debug\HORSE AUCTION.pdb
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\bin\Debug\HORSE AUCTION.xml
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\obj\Debug\HORSE_AUCTION.Form1.resources
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\obj\Debug\HORSE_AUCTION.Resources.resources
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\obj\Debug\HORSE AUCTION.vbproj.GenerateResource.Cache
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\obj\Debug\HORSE AUCTION.exe
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\obj\Debug\HORSE AUCTION.xml
+d:\documents - data drive\visual studio 2012\Projects\HORSE AUCTION\HORSE AUCTION\obj\Debug\HORSE AUCTION.pdb

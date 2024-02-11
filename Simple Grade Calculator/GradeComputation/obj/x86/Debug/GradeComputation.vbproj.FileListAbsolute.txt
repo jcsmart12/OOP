@@ -1,0 +1,30 @@
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\bin\Debug\GradeComputation.exe
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\bin\Debug\GradeComputation.pdb
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\bin\Debug\GradeComputation.xml
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.vbproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.exe
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.xml
+C:\Users\Toshiba\Desktop\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.pdb
+C:\Users\Toshiba\Desktop\codes\vb.net\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.exe
+C:\Users\Toshiba\Desktop\codes\vb.net\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.xml
+C:\Users\Toshiba\Desktop\codes\vb.net\GradeComputation\GradeComputation\obj\x86\Debug\GradeComputation.pdb
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\obj\x86\Debug\GradeComputation.exe
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\obj\x86\Debug\GradeComputation.xml
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\obj\x86\Debug\GradeComputation.pdb
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\bin\Debug\GradeComputation.exe
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\bin\Debug\GradeComputation.pdb
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\bin\Debug\GradeComputation.xml
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\GradeComputationvbnet\GradeComputation\obj\x86\Debug\GradeComputation.vbproj.GenerateResource.Cache
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\obj\x86\Debug\GradeComputation.exe
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\obj\x86\Debug\GradeComputation.xml
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\obj\x86\Debug\GradeComputation.pdb
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\bin\Debug\GradeComputation.exe
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\bin\Debug\GradeComputation.pdb
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\bin\Debug\GradeComputation.xml
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\Simple Grade Calculator\GradeComputation\obj\x86\Debug\GradeComputation.vbproj.GenerateResource.Cache

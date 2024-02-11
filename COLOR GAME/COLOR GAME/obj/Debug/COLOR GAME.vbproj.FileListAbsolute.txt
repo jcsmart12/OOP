@@ -1,0 +1,10 @@
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\bin\Debug\COLOR GAME.exe.config
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\bin\Debug\COLOR GAME.exe
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\bin\Debug\COLOR GAME.pdb
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\bin\Debug\COLOR GAME.xml
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\obj\Debug\COLOR_GAME.Form1.resources
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\obj\Debug\COLOR_GAME.Resources.resources
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\obj\Debug\COLOR GAME.vbproj.GenerateResource.Cache
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\obj\Debug\COLOR GAME.exe
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\obj\Debug\COLOR GAME.xml
+d:\documents - data drive\visual studio 2012\Projects\COLOR GAME\COLOR GAME\obj\Debug\COLOR GAME.pdb

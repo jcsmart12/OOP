@@ -1,0 +1,10 @@
+d:\documents - data drive\visual studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\bin\Debug\CASIMSIMAN_MidtermPracticalExam.exe.config
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\bin\Debug\CASIMSIMAN_MidtermPracticalExam.exe
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\bin\Debug\CASIMSIMAN_MidtermPracticalExam.pdb
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\bin\Debug\CASIMSIMAN_MidtermPracticalExam.xml
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\obj\Debug\CASIMSIMAN_MidtermPracticalExam.Form1.resources
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\obj\Debug\CASIMSIMAN_MidtermPracticalExam.Resources.resources
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\obj\Debug\CASIMSIMAN_MidtermPracticalExam.vbproj.GenerateResource.Cache
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\obj\Debug\CASIMSIMAN_MidtermPracticalExam.exe
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\obj\Debug\CASIMSIMAN_MidtermPracticalExam.xml
+D:\DOCUMENTS - DATA DRIVE\Visual Studio 2012\Projects\CASIMSIMAN_MidtermPracticalExam\CASIMSIMAN_MidtermPracticalExam\obj\Debug\CASIMSIMAN_MidtermPracticalExam.pdb
